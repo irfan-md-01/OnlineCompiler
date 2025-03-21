@@ -2,7 +2,7 @@
 An online compiler built with Django that supports Python, C++, and Java code execution with input handling, persistent code storage, and a user-friendly editor using CodeMirror.
 
 🚀 Features
-✔️ Supports Python, C++, and Java Compilation & Execution
+✔️ Supports Python, C++, and Java Compilation & Execution 
 ✔️ Code Editor with Syntax Highlighting (CodeMirror)
 ✔️ User Input Support
 ✔️ Persistent Code (Retains code on revisits)
