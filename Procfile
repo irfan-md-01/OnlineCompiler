@@ -1,1 +1,1 @@
-web: gunicorn OnlineCompiler.wsgi:application --log-file -
+web: gunicorn online_compiler.wsgi --log-file -
