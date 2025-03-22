@@ -70,7 +70,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = "OnlineCompiler.wsgi.application"
+WSGI_APPLICATION = "online_compiler.wsgi.application"
 
 
 
