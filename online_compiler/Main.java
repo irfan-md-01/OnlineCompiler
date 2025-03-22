@@ -1,11 +1,8 @@
-public class Main
-{ 
-    public static void main (String args[]) 
-    {
-        int i=10;
-        if(i > 0){
-            String str = "adsds"; 
-            System.out.println(str); 
-        }
-    } 
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+
+class Main {
+    public static void main(String[] args) {
+        System.out.println("Try programi7944z.pro");
+    }
 }
